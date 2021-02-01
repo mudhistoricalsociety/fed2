@@ -14,4 +14,6 @@ Fed2 Community is brought to you by Managers Cosmo, Preston, and Smitty, all for
 Live the life of a Galactic trader in Federation DataSpace!
 
 http://www.ibgames.net/index.html
+
 https://bitbucket.org/alan_lenton/federation-2/src/master/
+
