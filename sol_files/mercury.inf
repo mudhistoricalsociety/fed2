@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<infrastructure owner='Bella' economy='Leisure' treasury='295206105' yard-markup='0' workers='0' base='1000' registry='true'>
+  <build type='Heliograph' points='1'/>
+  <build type='Pension' points='2'/>
+    <warehouse owner='Bubbajr'>
+    </warehouse>
+
+    <warehouse owner='Dewface'>
+      <cargo name='Furs' star='Aevum' planet='Somnium' cost='505' />
+      <cargo name='Furs' star='Aevum' planet='Somnium' cost='486' />
+      <cargo name='Furs' star='Aevum' planet='Somnium' cost='491' />
+      <cargo name='Furs' star='Aevum' planet='Somnium' cost='496' />
+      <cargo name='Furs' star='Aevum' planet='Somnium' cost='491' />
+      <cargo name='Furs' star='Aevum' planet='Somnium' cost='505' />
+      <cargo name='Spices' star='Blue' planet='Cheers' cost='496' />
+      <cargo name='Spices' star='Blue' planet='Cheers' cost='505' />
+      <cargo name='Spices' star='Blue' planet='Cheers' cost='491' />
+      <cargo name='Spices' star='Blue' planet='Cheers' cost='505' />
+      <cargo name='Spices' star='Blue' planet='Cheers' cost='505' />
+      <cargo name='Spices' star='Blue' planet='Cheers' cost='486' />
+      <cargo name='Woods' star='Free' planet='Enterprize' cost='545' />
+      <cargo name='Woods' star='Free' planet='Enterprize' cost='540' />
+      <cargo name='Woods' star='Free' planet='Enterprize' cost='524' />
+      <cargo name='Woods' star='Free' planet='Enterprize' cost='551' />
+      <cargo name='Woods' star='Free' planet='Enterprize' cost='540' />
+      <cargo name='Woods' star='Free' planet='Enterprize' cost='551' />
+    </warehouse>
+
+    <warehouse owner='George'>
+    </warehouse>
+
+    <warehouse owner='Glorancia'>
+    </warehouse>
+
+    <warehouse owner='Gunny'>
+    </warehouse>
+
+    <warehouse owner='Hank'>
+    </warehouse>
+
+    <warehouse owner='Kayla'>
+    </warehouse>
+
+    <warehouse owner='Moloch'>
+    </warehouse>
+
+    <warehouse owner='Nightingale'>
+    </warehouse>
+
+    <warehouse owner='Nightstar'>
+    </warehouse>
+
+</infrastructure>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<star name='Sol' directory='sol'>
+   <map name='brass'/>
+   <map name='castillo'/>
+   <map name='doris'/>
+   <map name='earth'/>
+   <map name='graveyard'/>
+   <map name='help'/>
+   <map name='hunt'/>
+   <map name='magellan'/>
+   <map name='magrathea'/>
+   <map name='mars'/>
+   <map name='mercury'/>
+   <map name='paradise'/>
+   <map name='pearl'/>
+   <map name='phobos'/>
+   <map name='rhea'/>
+   <map name='moon'/>
+   <map name='silk'/>
+   <map name='space'/>
+   <map name='starbase1'/>
+   <map name='sumatra'/>
+   <map name='system'/>
+   <map name='lattice'/>
+   <map name='titan'/>
+   <map name='venus'/>
+</star>

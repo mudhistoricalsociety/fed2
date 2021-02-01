@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<infrastructure owner='Bella' economy='Leisure' treasury='260681797' yard-markup='0' workers='0' base='1000' registry='true'>
+  <build type='Heliograph' points='1'/>
+    <warehouse owner='Bubbajr'>
+    </warehouse>
+
+    <warehouse owner='Dewface'>
+    </warehouse>
+
+    <warehouse owner='Florancia'>
+    </warehouse>
+
+    <warehouse owner='George'>
+    </warehouse>
+
+    <warehouse owner='Glorancia'>
+    </warehouse>
+
+    <warehouse owner='Gunny'>
+    </warehouse>
+
+    <warehouse owner='Hank'>
+    </warehouse>
+
+    <warehouse owner='Horancia'>
+    </warehouse>
+
+    <warehouse owner='Kayla'>
+    </warehouse>
+
+    <warehouse owner='Moloch'>
+    </warehouse>
+
+    <warehouse owner='Nightbird'>
+    </warehouse>
+
+    <warehouse owner='Nightingale'>
+    </warehouse>
+
+    <warehouse owner='Nightsky'>
+    </warehouse>
+
+    <warehouse owner='Nightstar'>
+    </warehouse>
+
+</infrastructure>

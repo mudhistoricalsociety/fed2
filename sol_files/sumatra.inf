@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<infrastructure owner='Freya' economy='Resource' treasury='547140966' yard-markup='0' workers='800' base='1000' slithy-xform='0' registry='false'>
+    <warehouse owner='Achmedthe'>
+      <cargo name='TQuarks' star='Havefun' planet='Whiskey Map' cost='679' />
+      <cargo name='TQuarks' star='Havefun' planet='Whiskey Map' cost='679' />
+      <cargo name='TQuarks' star='Havefun' planet='Whiskey Map' cost='721' />
+      <cargo name='TQuarks' star='Havefun' planet='Whiskey Map' cost='679' />
+      <cargo name='TQuarks' star='Havefun' planet='Whiskey Map' cost='693' />
+      <cargo name='TQuarks' star='Havefun' planet='Whiskey Map' cost='721' />
+    </warehouse>
+
+    <warehouse owner='Dewface'>
+      <cargo name='LanzariK' star='Free' planet='Enterprize' cost='524' />
+      <cargo name='LanzariK' star='Free' planet='Enterprize' cost='540' />
+      <cargo name='LanzariK' star='Free' planet='Enterprize' cost='524' />
+      <cargo name='LanzariK' star='Free' planet='Enterprize' cost='556' />
+      <cargo name='LanzariK' star='Free' planet='Enterprize' cost='540' />
+      <cargo name='LanzariK' star='Free' planet='Enterprize' cost='545' />
+      <cargo name='LubOils' star='Aevum' planet='Somnium' cost='444' />
+      <cargo name='LubOils' star='Aevum' planet='Somnium' cost='427' />
+      <cargo name='LubOils' star='Aevum' planet='Somnium' cost='419' />
+      <cargo name='LubOils' star='Aevum' planet='Somnium' cost='427' />
+      <cargo name='LubOils' star='Aevum' planet='Somnium' cost='440' />
+      <cargo name='LubOils' star='Aevum' planet='Somnium' cost='427' />
+      <cargo name='Pharmaceuticals' star='Aevum' planet='Somnium' cost='481' />
+      <cargo name='Pharmaceuticals' star='Aevum' planet='Somnium' cost='475' />
+      <cargo name='Pharmaceuticals' star='Aevum' planet='Somnium' cost='500' />
+      <cargo name='Pharmaceuticals' star='Aevum' planet='Somnium' cost='481' />
+      <cargo name='Pharmaceuticals' star='Aevum' planet='Somnium' cost='470' />
+      <cargo name='Pharmaceuticals' star='Aevum' planet='Somnium' cost='490' />
+    </warehouse>
+
+    <warehouse owner='Glorancia'>
+    </warehouse>
+
+    <warehouse owner='Gunny'>
+    </warehouse>
+
+    <warehouse owner='Horancia'>
+    </warehouse>
+
+    <warehouse owner='Kayla'>
+    </warehouse>
+
+    <warehouse owner='Lumos'>
+      <cargo name='Monopoles' star='Sol' planet='Sumatra' cost='594' />
+      <cargo name='Gold' star='Sol' planet='Sumatra' cost='479' />
+      <cargo name='Monopoles' star='Sol' planet='Sumatra' cost='599' />
+      <cargo name='Gold' star='Sol' planet='Sumatra' cost='499' />
+      <cargo name='Gold' star='Sol' planet='Sumatra' cost='506' />
+      <cargo name='Radioactives' star='Sol' planet='Sumatra' cost='463' />
+      <cargo name='Monopoles' star='Sol' planet='Sumatra' cost='575' />
+      <cargo name='Gold' star='Sol' planet='Sumatra' cost='486' />
+      <cargo name='Radioactives' star='Sol' planet='Sumatra' cost='463' />
+      <cargo name='Gold' star='Sol' planet='Sumatra' cost='511' />
+      <cargo name='Radioactives' star='Sol' planet='Sumatra' cost='469' />
+      <cargo name='Monopoles' star='Sol' planet='Sumatra' cost='598' />
+      <cargo name='Lasers' star='Sol' planet='Sumatra' cost='390' />
+      <cargo name='Xmetals' star='Sol' planet='Sumatra' cost='396' />
+      <cargo name='Gold' star='Sol' planet='Sumatra' cost='522' />
+      <cargo name='Clays' star='Sol' planet='Sumatra' cost='462' />
+      <cargo name='Radioactives' star='Sol' planet='Sumatra' cost='484' />
+    </warehouse>
+
+    <warehouse owner='Moloch'>
+    </warehouse>
+
+    <warehouse owner='Nightingale'>
+    </warehouse>
+
+    <warehouse owner='Triphina'>
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1076' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1093' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1122' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1005' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1053' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1144' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1017' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1034' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1081' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1085' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1014' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1062' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1076' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1026' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1065' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1068' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1028' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1086' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1124' />
+      <cargo name='TQuarks' star='Sol' planet='Rhea' cost='1096' />
+    </warehouse>
+
+</infrastructure>

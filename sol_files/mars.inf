@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<infrastructure owner='Bella' economy='Technical' treasury='28722406' yard-markup='0' workers='400' base='1000' registry='true'>
+  <build type='Radio' points='12'/>
+    <warehouse owner='Bubbajr'>
+    </warehouse>
+
+    <warehouse owner='Dab'>
+    </warehouse>
+
+    <warehouse owner='Dewface'>
+      <cargo name='Soya' star='Free' planet='Enterprize' cost='178' />
+      <cargo name='Soya' star='Free' planet='Enterprize' cost='170' />
+      <cargo name='Soya' star='Free' planet='Enterprize' cost='173' />
+      <cargo name='Soya' star='Free' planet='Enterprize' cost='170' />
+      <cargo name='Soya' star='Free' planet='Enterprize' cost='173' />
+      <cargo name='Soya' star='Free' planet='Enterprize' cost='173' />
+      <cargo name='Textiles' star='Free' planet='Enterprize' cost='231' />
+      <cargo name='Textiles' star='Free' planet='Enterprize' cost='233' />
+      <cargo name='Textiles' star='Free' planet='Enterprize' cost='231' />
+      <cargo name='Textiles' star='Free' planet='Enterprize' cost='233' />
+      <cargo name='Textiles' star='Free' planet='Enterprize' cost='226' />
+      <cargo name='Textiles' star='Free' planet='Enterprize' cost='231' />
+      <cargo name='Alloys' star='Sol' planet='Paradise' cost='143' />
+      <cargo name='Alloys' star='Sol' planet='Paradise' cost='169' />
+      <cargo name='Alloys' star='Sol' planet='Paradise' cost='172' />
+      <cargo name='Alloys' star='Sol' planet='Paradise' cost='184' />
+      <cargo name='Alloys' star='Sol' planet='Paradise' cost='188' />
+      <cargo name='Alloys' star='Sol' planet='Paradise' cost='191' />
+    </warehouse>
+
+    <warehouse owner='Florancia'>
+    </warehouse>
+
+    <warehouse owner='George'>
+    </warehouse>
+
+    <warehouse owner='Glorancia'>
+    </warehouse>
+
+    <warehouse owner='Gunny'>
+    </warehouse>
+
+    <warehouse owner='Hank'>
+    </warehouse>
+
+    <warehouse owner='Jaromine'>
+    </warehouse>
+
+    <warehouse owner='Kayla'>
+    </warehouse>
+
+    <warehouse owner='Moloch'>
+    </warehouse>
+
+    <warehouse owner='Mur'>
+    </warehouse>
+
+    <warehouse owner='Nightbird'>
+    </warehouse>
+
+    <warehouse owner='Nightingale'>
+    </warehouse>
+
+    <warehouse owner='Orim'>
+    </warehouse>
+
+    <warehouse owner='Trukk'>
+      <cargo name='Furs' star='Sol' planet='Rhea' cost='540' />
+      <cargo name='Furs' star='Sol' planet='Titan' cost='530' />
+      <cargo name='Furs' star='Sol' planet='Paradise' cost='524' />
+      <cargo name='Furs' star='Sol' planet='Venus' cost='535' />
+    </warehouse>
+
+</infrastructure>

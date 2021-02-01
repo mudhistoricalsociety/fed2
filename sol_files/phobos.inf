@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<infrastructure owner='Hazed' economy='Biological' treasury='15730488' yard-markup='0' workers='200' base='1000' slithy-xform='0' registry='false'>
+    <warehouse owner='Briefcase'>
+    </warehouse>
+
+    <warehouse owner='Bubbajr'>
+    </warehouse>
+
+    <warehouse owner='Dewface'>
+      <cargo name='Mechparts' star='Sol' planet='Brass' cost='335' />
+      <cargo name='Mechparts' star='Sol' planet='Brass' cost='346' />
+      <cargo name='Mechparts' star='Sol' planet='Brass' cost='350' />
+      <cargo name='Mechparts' star='Sol' planet='Brass' cost='365' />
+      <cargo name='Mechparts' star='Sol' planet='Brass' cost='352' />
+      <cargo name='Mechparts' star='Sol' planet='Brass' cost='353' />
+      <cargo name='Nitros' star='Sol' planet='Doris' cost='184' />
+      <cargo name='Nitros' star='Sol' planet='Doris' cost='198' />
+      <cargo name='Nitros' star='Sol' planet='Doris' cost='215' />
+      <cargo name='Nitros' star='Sol' planet='Doris' cost='234' />
+      <cargo name='Nitros' star='Sol' planet='Doris' cost='234' />
+      <cargo name='Nitros' star='Sol' planet='Doris' cost='244' />
+      <cargo name='BioChips' star='Sol' planet='Phobos' cost='524' />
+      <cargo name='BioChips' star='Sol' planet='Phobos' cost='553' />
+      <cargo name='BioChips' star='Sol' planet='Phobos' cost='558' />
+      <cargo name='BioChips' star='Sol' planet='Phobos' cost='555' />
+      <cargo name='BioChips' star='Sol' planet='Phobos' cost='540' />
+      <cargo name='BioChips' star='Sol' planet='Phobos' cost='575' />
+    </warehouse>
+
+    <warehouse owner='Dimwit'>
+    </warehouse>
+
+    <warehouse owner='George'>
+    </warehouse>
+
+    <warehouse owner='Glorancia'>
+    </warehouse>
+
+    <warehouse owner='Gunny'>
+    </warehouse>
+
+    <warehouse owner='Hank'>
+    </warehouse>
+
+    <warehouse owner='Horancia'>
+    </warehouse>
+
+    <warehouse owner='Ionia'>
+    </warehouse>
+
+    <warehouse owner='Jaromine'>
+    </warehouse>
+
+    <warehouse owner='Kayla'>
+    </warehouse>
+
+    <warehouse owner='Koskbelloc'>
+    </warehouse>
+
+    <warehouse owner='Moloch'>
+    </warehouse>
+
+    <warehouse owner='Mur'>
+    </warehouse>
+
+    <warehouse owner='Nightbird'>
+    </warehouse>
+
+    <warehouse owner='Nightingale'>
+    </warehouse>
+
+    <warehouse owner='Nightsky'>
+    </warehouse>
+
+    <warehouse owner='Nightstar'>
+    </warehouse>
+
+    <warehouse owner='Scarfdood'>
+      <cargo name='Xmetals' star='Ruby' planet='Eidolon' cost='391' />
+      <cargo name='Xmetals' star='Ruby' planet='Eidolon' cost='399' />
+      <cargo name='Xmetals' star='Ruby' planet='Eidolon' cost='407' />
+      <cargo name='Xmetals' star='Ruby' planet='Eidolon' cost='396' />
+      <cargo name='Xmetals' star='Ruby' planet='Eidolon' cost='387' />
+      <cargo name='Xmetals' star='Ruby' planet='Eidolon' cost='383' />
+      <cargo name='Propellants' star='Addams' planet='Outcast' cost='210' />
+      <cargo name='Propellants' star='Addams' planet='Outcast' cost='220' />
+      <cargo name='Propellants' star='Addams' planet='Outcast' cost='220' />
+      <cargo name='Propellants' star='Addams' planet='Outcast' cost='217' />
+    </warehouse>
+
+</infrastructure>
