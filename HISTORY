@@ -1,0 +1,66 @@
+September 2, 2018
+
+A SAD ANNOUNCEMENT: FEDERATION 2 WILL BE CLOSING IN A MONTH
+by Hazed
+It is with great sadness that Alan and I have decided that after having run continuously for over 30 years it is time to close Fed2.
+
+The game will run until the reset on Monday October 1, at which point it will not fire up again.
+
+We hope that ex-players who are reading this will take the opportunity to return for a Fedxit Party on the final weekend. I’ll give you more information about the party closer to the End of the Universe As We Know It.
+
+Why We Are Closing Fed
+There are technical reasons why it’s time to close Fed down. The environment for running services on the internet has changed enormously since we moved off AOL in 1997.
+
+For example, security requirements have changed. Google’s new insistence that all websites should be HTTPS sites mean we need to sort out a security certificate otherwise the site will be labelled as “unsafe” for users of the Chrome browser. The European Union’s new GDPR rules also add complications to any organisation holding customer data.
+
+In addition, we have been informed by the hosting company, Melbourne, that they are closing their current operations and migrating their users over to a new server at the end of the year. So we are faced with the problems of having to set everything up again on a new server.
+
+Those problems require someone with system admin skills. Alan doesn’t have those skills – in the past we’ve found somebody else to help when we’ve needed them, but now we don’t have anyone available.
+
+The game’s networking and security needs a thorough overhaul. It was originally designed to run on a hosted system – eg Compunet, Genie, AOL, etc – where the host system handled passing already validated players through to the game. Fed’s networking and security was added afterwards, under time constraints, and since then internet threats have multiplied and changed. In addition, now that new IPV4 internet addresses have effectively run out we would need to start supporting the new IPV6 addresses.
+
+Now, none of these problems are insurmountable – they may be hard, but it would be possible to solve them, if it wasn’t for one more issue.
+
+And that’s Alan’s health. As regular readers will know, he contracted shingles early this year and while he has mostly recovered from it, he is left feeling exhausted. He’s also now suffering from other health problems that will take their toll on his ability to do much programming work. Since in the game, Bella and Hazed are ageless, you probably don’t know that we are all getting on a bit: Alan will be 70 next year, and I’ll be 60, so neither of us has the stamina that we used to.
+
+The game itself has been slowly fading: from its peak on AOL where it had thousands of players online all at once, the move to the internet coincided with text games going out of fashion and graphical games taking over.
+
+And so, with sorrow in our hearts, we have had to make the decision that it is time to draw the Federation era to a close.
+
+What About Subscriptions?
+Yesterday I turned off the subscriptions for all those buying slithies every month to help keep the game running. None of you will be charged during September.
+
+We have just enough left in the kitty to pay for the final month’s bills, give or take a few groats.
+
+Thank you to everyone who has donated to Fed over the years. Without you we wouldn’t have been able to keep the game running for as long as we did.
+
+Saving Your Planets
+We are giving you a month’s notice before we close the game so you have a chance to save details of your planet, or any other favourite parts of the game. You can use the logging function of FedTerm to walk around and capture a tour of your planet.
+
+In addition, you can ask us to send you the planet files if you want them. When the game closes down we’ll save a copy of all the planet files, so even after Fed is no more, if you suddenly decide you don’t want to lose all your hard work, you can email and ask us to send you the files.
+
+What About the Website?
+I will move the website to a new host, and I’ll keep the domain addresses (ibgames.com and ibgames.net) for the foreseeable future. I’ll make the move during the week after the shutdown; over time I’ll remove from the website anything that relates to the game being live, and leave the information as an archive.
+
+We will keep our email addresses so you will be able to contact us at fi@ibgames.com, alan@ibgames.com and feedback@ibgames.com.
+
+The End of the Fed2 Star
+The end of Fed means there won’t be any need for the Fed2 Star in the future. I will publish a couple more issues between now and shutdown just to repeat the information about what’s happening, and to use up any real life news stories I have in reserve, but that’s all.
+
+The purpose of the Fed2 Star was always to tell you about what’s happening in Fed. In the latter years, not very much was happening, so I bulked out the news with interesting real life stories, but I have been finding it hard to keep up with the publishing schedule.
+
+I will probably set up a blog and continue to write stories when I find something that interests me. When I do so, I will send one final email to the Fed2 Star mailing list, pointing you to the blog.
+
+Winding Down Will Continue
+Good news for those that enjoy Alan’s technical news: it will continue to be published every week (barring one week off each month). If you have been reading it via the Fed2 Star mailing list, then you will need to subscribe to the separate Winding Down mailing list.
+
+To subscribe to the mailing list, send an email to:
+
+winding-down+subscribe@googlegroups.com
+
+Goodbye, and Thanks for All the Fish
+Alan, Barb and I would like to offer our sincerest thanks to everyone who has been involved with Fed over the years. From its first faltering steps on the UK’s Compunet network, its move to the US to Genie, then to AOL and finally onto the internet, we’ve been blessed with an exceptional class of players.
+
+Many of you went on to join the team in various staff roles, and without all your help and dedication the game would not have survived.
+
+Thank you, all of you.
