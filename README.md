@@ -1,3 +1,7 @@
+One of the oldest text based games, Federation has now released their source code!
+
+Mud Historical Society thanks Bella and Hazed for all their amazing work over the years.  They are truly and inspiration for all others to come after them.
+
 FED2 COMMUNITY VERSION
 The Galaxy's exchanges await you in Fed2 Community!
 
